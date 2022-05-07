@@ -64,6 +64,7 @@ p {
   padding: 2rem;
   font-size: 2.2rem;
   border: .1rem solid purple;
+  border-radius: 2rem;
 }
 
 
