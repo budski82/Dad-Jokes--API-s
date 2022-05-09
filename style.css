@@ -63,11 +63,12 @@ h3 {
 
 p {
   position: relative;
-  top: 1rem;
-  padding: 2rem;
+  top: 1.4rem;
+  padding: 1.5rem;
   font-size: 2.2rem;
   border: .1rem solid purple;
   border-radius: 2rem;
+  font-weight: 700;
 }
 
 
